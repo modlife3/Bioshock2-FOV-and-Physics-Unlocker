@@ -1,5 +1,5 @@
 # Bioshock2 FOV and Physics Unlocker
-FOV and Physics unlocker for BioShock 2 (2010) made with AI.
+FOV and Physics unlocker for BioShock 2 (2010) **made with AI**.
 Tested and working on the Steam and GOG versions.
 
 ## INSTRUCTIONS
