@@ -7,3 +7,4 @@ Tested and working on the Steam and GOG versions.
  - Copy the four files in the same directory as the game's executable.
 - Download [dinput8.dll](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases) (Win32) and copy it in the same directory as the game's executable.
  - Open the .ini file corresponding to what you want to unlock, make the changes, and save.
+<img width="1280" height="720" alt="14607550039950622720_5" src="https://github.com/user-attachments/assets/d4d8b4b4-9020-46ba-8836-c083787b55ca" />
